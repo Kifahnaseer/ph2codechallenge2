@@ -19,7 +19,7 @@
     "deploy":"gh-pages -d build",
     "start": "PORT=8000 react-scripts start",
     "build":"react-scripts build",
-    "server": "json-server --watch db.json -p 8002"
+    "server": "json-server --watch db.json -p 3000"
   },
   "eslintConfig": {
     "extends": [
